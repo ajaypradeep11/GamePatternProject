@@ -1,0 +1,42 @@
+﻿  cFlyCamera.cpp
+  cGameManager.cpp
+  cGFLWKeyboardModifiers.cpp
+  cLightHelper.cpp
+  cLightManager.cpp
+  cMesh.cpp
+  cShader.cpp
+  cShaderManager.cpp
+  cSpaceWarEnemy.cpp
+  cSpaceWarObjects.cpp
+D:\GAME PATERN FINAL\GAME\WithoutPatternFiles\ILoveOpenGL\cSpaceWarObjects.cpp(31,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  cSpaceWarPlayer.cpp
+D:\GAME PATERN FINAL\GAME\WithoutPatternFiles\ILoveOpenGL\cSpaceWarPlayer.cpp(7,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  cVAOManager.cpp
+D:\GAME PATERN FINAL\GAME\WithoutPatternFiles\ILoveOpenGL\cVAOManager.cpp(38,8): warning C4101: 'maxExtent': unreferenced local variable
+D:\GAME PATERN FINAL\GAME\WithoutPatternFiles\ILoveOpenGL\cVAOManager.cpp(34,12): warning C4101: 'maxValues': unreferenced local variable
+D:\GAME PATERN FINAL\GAME\WithoutPatternFiles\ILoveOpenGL\cVAOManager.cpp(35,12): warning C4101: 'minValues': unreferenced local variable
+D:\GAME PATERN FINAL\GAME\WithoutPatternFiles\ILoveOpenGL\cVAOManager.cpp(297,13): warning C4101: 'discard': unreferenced local variable
+  cWinContextMenu.cpp
+  DrawObject_function.cpp
+  GLFW_error_callback.cpp
+  GLFW_key_callback.cpp
+  globalThings.cpp
+  InputHandling.cpp
+  Load3DModels.cpp
+  Shutdown.cpp
+  Compiling...
+  StartUp.cpp
+  C24BitBMPpixel.cpp
+  cBasicTextureManager.cpp
+  CTextureFromBMP.cpp
+  theMainOnlyBlackScreen.cpp
+  glad.c
+  theMain.cpp
+D:\GAME PATERN FINAL\GAME\WithoutPatternFiles\ILoveOpenGL\theMain.cpp(632,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GAME PATERN FINAL\GAME\WithoutPatternFiles\ILoveOpenGL\theMain.cpp(685,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1128 of 1145 functions (98.5%) were compiled, the rest were copied from previous compilation.
+    19 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ILoveOpenGL.vcxproj -> D:\GAME PATERN FINAL\GAME\WithoutPatternFiles\x64\Release\ILoveOpenGL.exe

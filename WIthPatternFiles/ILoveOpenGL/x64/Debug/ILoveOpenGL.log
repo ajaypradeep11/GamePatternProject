@@ -1,0 +1,54 @@
+﻿  cFlyCamera.cpp
+  cGameManager.cpp
+  cGFLWKeyboardModifiers.cpp
+  cLightHelper.cpp
+  cLightManager.cpp
+  cMesh.cpp
+  cShader.cpp
+  cShaderManager.cpp
+  cSpaceWarEnemy.cpp
+  cSpaceWarObjects.cpp
+D:\GAME PATERN FINAL\GAME\WIthPatternFiles\ILoveOpenGL\cSpaceWarObjects.cpp(31,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  cSpaceWarPlayer.cpp
+D:\GAME PATERN FINAL\GAME\WIthPatternFiles\ILoveOpenGL\cSpaceWarPlayer.cpp(7,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  cVAOManager.cpp
+D:\GAME PATERN FINAL\GAME\WIthPatternFiles\ILoveOpenGL\cVAOManager.cpp(38,8): warning C4101: 'maxExtent': unreferenced local variable
+D:\GAME PATERN FINAL\GAME\WIthPatternFiles\ILoveOpenGL\cVAOManager.cpp(34,12): warning C4101: 'maxValues': unreferenced local variable
+D:\GAME PATERN FINAL\GAME\WIthPatternFiles\ILoveOpenGL\cVAOManager.cpp(35,12): warning C4101: 'minValues': unreferenced local variable
+D:\GAME PATERN FINAL\GAME\WIthPatternFiles\ILoveOpenGL\cVAOManager.cpp(297,13): warning C4101: 'discard': unreferenced local variable
+  cWinContextMenu.cpp
+  DrawObject_function.cpp
+  GLFW_error_callback.cpp
+  GLFW_key_callback.cpp
+  globalThings.cpp
+  InputHandling.cpp
+  Load3DModels.cpp
+  Shutdown.cpp
+  Generating Code...
+  Compiling...
+  StartUp.cpp
+  C24BitBMPpixel.cpp
+  cBasicTextureManager.cpp
+  CTextureFromBMP.cpp
+  theMain.cpp
+D:\GAME PATERN FINAL\GAME\WIthPatternFiles\ILoveOpenGL\theMain.cpp(517,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GAME PATERN FINAL\GAME\WIthPatternFiles\ILoveOpenGL\theMain.cpp(570,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  theMainOnlyBlackScreen.cpp
+  Generating Code...
+  glad.c
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(context.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(init.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(input.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(window.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_thread.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(osmesa_context.obj)' or at 'D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\glfw3.pdb'; linking object as if no debug info
+  ILoveOpenGL.vcxproj -> D:\GAME PATERN FINAL\GAME\WIthPatternFiles\x64\Debug\ILoveOpenGL.exe

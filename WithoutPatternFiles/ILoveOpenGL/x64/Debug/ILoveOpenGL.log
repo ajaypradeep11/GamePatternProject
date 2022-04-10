@@ -1,0 +1,3 @@
+﻿  theMain.cpp
+D:\GAME PATERN FINAL\GAME\ILoveOpenGL\theMain.cpp(453,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ILoveOpenGL.vcxproj -> D:\GAME PATERN FINAL\GAME\x64\Debug\ILoveOpenGL.exe
